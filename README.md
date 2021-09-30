@@ -216,8 +216,6 @@ There are additional anchors available that are unaffected by multiline mode [m]
 
 Created by [@GoldinGuy](https://github.com/GoldinGuy) for the FAU Google DSC Regex Event.
 
-<!-- Markdown link & img dfn's -->
-
 [discord-url]: https://discord.gg/gKYSMeJ
 [discord]: https://img.shields.io/discord/689176425701703810
 [issues]: https://img.shields.io/github/issues/GoldinGuy/UltimateRegexResource
